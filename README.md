@@ -1,8 +1,8 @@
-### Hello, I'm Gratian Marian
-#### Junior Software Developer
+# Gratian Marian
+## Junior Software Developer
 I recently started working as a software developer and I'm very interested in the idea of open source. I want to start contributing on some projects and help out.
 
-Skills
+### Skills
   - C#
   - .NetFramework
   - .NetCore
